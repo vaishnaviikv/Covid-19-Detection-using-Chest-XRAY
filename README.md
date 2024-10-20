@@ -59,23 +59,23 @@ Use Command:
 
     python corona.py --image test_set/patient1.png
     
-<img src="output/Result1.png">
+<img src="Result1.png">
 
     python corona.py --image test_set/patient2.jpg
     
-<img src="output/Result2.png">
+<img src="Result2.png">
 
 <h1>Django Project for Detecting COVID-19 and Pneumonia through Human chest X-Ray Images:</h1>
 
 <h2>ScreenShots:</h2>
 
-<img src="Screenshots/Covid-19 Detection -1.png">
+<img src="Covid-19 Detection -1.png">
 
-<img src="Screenshots/Covid-19 Detection -2.png">
+<img src="Covid-19 Detection -2.png">
 
-<img src="Screenshots/Covid-19 Detection -3.png">
+<img src="Covid-19 Detection -3.png">
 
-<img src="Screenshots/Covid-19 Detection -4.png">
+<img src="Covid-19 Detection -4.png">
 
 <h2>Description Video:</h2>
 
